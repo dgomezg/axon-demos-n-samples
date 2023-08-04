@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <parent>
+    <groupId>dev.dgomezg.axoniq</groupId>
+    <artifactId>samples-n-demos</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>dev.dgomezg.axoniq.samples</groupId>
+  <artifactId>shopping-cart</artifactId>
+  <description>Root project for shopping-cart example modules</description>
+
+  <packaging>pom</packaging>
+  <name>shopping-cart-sample</name>
+
+  <modules>
+    <module>shopping-cart-api</module>
+    <module>shopping-cart-service</module>
+  </modules>
+
+
+</project>
