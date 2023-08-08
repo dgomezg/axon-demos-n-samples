@@ -16,6 +16,7 @@
     <artifactId>shopping-cart-service</artifactId>
 
     <dependencies>
+
         <dependency>
             <groupId>org.axonframework</groupId>
             <artifactId>axon-spring-boot-starter</artifactId>

@@ -21,6 +21,7 @@
   <modules>
     <module>shopping-cart-api</module>
     <module>shopping-cart-service</module>
+    <module>shopping-cart-client-app</module>
   </modules>
 
 
